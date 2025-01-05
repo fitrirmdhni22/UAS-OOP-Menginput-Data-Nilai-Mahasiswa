@@ -18,6 +18,7 @@ Program ini terdiri dari tiga bagian utama:
 Program ini dirancang untuk memudahkan pengguna dalam memasukkan data mahasiswa dan melihat hasilnya dalam format yang mudah dibaca.
 
 # FLOWCHART PROGRAM
+![Flowchart](https://github.com/fitrirmdhni22/UAS-OOP-Menginput-Data-Nilai-Mahasiswa/blob/main/flowchart_mahasiswa.png?raw=true)
 
 # CARA KERJA PROGRAM
 1. Program akan meminta pengguna untuk memasukkan nama, NIM, dan nilai mahasiswa.
