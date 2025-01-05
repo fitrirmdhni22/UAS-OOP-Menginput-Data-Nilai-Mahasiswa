@@ -1,5 +1,5 @@
 # Class untuk proses validasi dan input data
-from main import Mahasiswa # type: ignore
+from main import Mahasiswa 
 
 
 class ProsesInput:
